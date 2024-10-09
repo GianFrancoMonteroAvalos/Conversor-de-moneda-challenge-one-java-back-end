@@ -3,6 +3,11 @@ Este proyecto es parte del desafío propuesto por Alura Latam y ONE Oracle Next 
 
 ![4075fae9-294a-414d-81c1-819d347ffb44](https://github.com/user-attachments/assets/0c28aff2-df96-4b01-b0cf-21b047ee0281)
 
+## Video Demostrativo
+
+https://github.com/user-attachments/assets/70f0ab38-de1b-4597-bd58-3b3bb631dd7a
+
+
 
 ## Descripción del Proyecto
 El Conversor de Monedas es una aplicación diseñada para facilitar la conversión entre diferentes divisas. Permite a los usuarios ingresar una cantidad en una moneda y obtener su equivalente en otra, utilizando las tasas de cambio más recientes.
