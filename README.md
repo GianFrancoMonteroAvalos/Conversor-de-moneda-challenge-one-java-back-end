@@ -14,17 +14,14 @@ Interfaz de usuario amigable.
 Actualización en tiempo real de las tasas de cambio.
 API de tasas de cambio: exchangeratesapi.io para obtener tasas de cambio actualizadas.
 
-Instalación
-Clona el repositorio:
 
-bash
-Copiar código
-git clone https://github.com/GianFrancoMonteroAvalos/Conversor-de-moneda-challenge-one-java-back-end.git
-Navega al directorio del proyecto:
+## Instalación
 
-bash
-Copiar código
-cd Conversor-de-moneda-challenge-one-java-back-end
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/GianFrancoMonteroAvalos/Conversor-de-moneda-challenge-one-java-back-end.git
+
+
 Compila y ejecuta el proyecto.
 
 Contribuciones
