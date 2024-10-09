@@ -4,15 +4,15 @@ Este proyecto es parte del desafío propuesto por Alura Latam y ONE Oracle Next 
 ![4075fae9-294a-414d-81c1-819d347ffb44](https://github.com/user-attachments/assets/0c28aff2-df96-4b01-b0cf-21b047ee0281)
 
 
-
-Descripción del Proyecto
+## Descripción del Proyecto
 El Conversor de Monedas es una aplicación diseñada para facilitar la conversión entre diferentes divisas. Permite a los usuarios ingresar una cantidad en una moneda y obtener su equivalente en otra, utilizando las tasas de cambio más recientes.
 
-Características
-Conversión entre múltiples monedas.
-Interfaz de usuario amigable.
-Actualización en tiempo real de las tasas de cambio.
-API de tasas de cambio: exchangeratesapi.io para obtener tasas de cambio actualizadas.
+## Características
+- Conversión entre múltiples monedas.
+- Interfaz de usuario amigable.
+- Actualización en tiempo real de las tasas de cambio.
+- API de tasas de cambio: [exchangeratesapi.io](https://exchangeratesapi.io) para obtener tasas de cambio actualizadas.
+
 
 
 ## Instalación
@@ -24,7 +24,7 @@ API de tasas de cambio: exchangeratesapi.io para obtener tasas de cambio actuali
 
 Compila y ejecuta el proyecto.
 
-Contribuciones
+## Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas colaborar, por favor sigue estos pasos:
 
 Haz un fork del repositorio.
